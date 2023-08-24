@@ -1,4 +1,4 @@
-<h1 align='center'>:file_cabinet:Analise sobre os usuários do Sctack overflow, de 2020 </h1>
+<h1 align='center'>:file_cabinet:Analise sobre os usuários do Sctack overflow do ano de 2020 </h1>
 
 
 * <b>Funcionalidade 1</b>:
@@ -14,12 +14,4 @@
 
  ## :dart: Status do projeto
 *  Dominar melhor a ferramenta Plotly Express
-*  Aceito sugestões e colabrações 😄
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+*  Sugestões e colabrações são bem vindas 😄
